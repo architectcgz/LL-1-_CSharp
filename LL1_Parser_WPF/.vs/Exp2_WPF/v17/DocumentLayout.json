@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\ll1analysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|solutionrelative:ll1analysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|g:\\books\\\u7F16\u8BD1\u539F\u7406\\exps\\exp2_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039E028A-3C14-4BD8-AA74-9DBB7EC3A461}|..\\Test\\Test.csproj|g:\\books\\\u7F16\u8BD1\u539F\u7406\\exps\\test\\test\\grammars\\grammar2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\stepinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|solutionrelative:stepinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\exp2_wpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|solutionrelative:exp2_wpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\exp2_wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|solutionrelative:exp2_wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\resources\\resdict.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|solutionrelative:resources\\resdict.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039E028A-3C14-4BD8-AA74-9DBB7EC3A461}|..\\Test\\Test.csproj|g:\\books\\\u7F16\u8BD1\u539F\u7406\\exps\\test\\ll1analysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|g:\\books\\\u7F16\u8BD1\u539F\u7406\\exps\\exp2_wpf\\grammars\\grammar1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{754A0705-931D-4285-8345-209657AE986A}|Exp2_WPF.csproj|solutionrelative:grammars\\grammar1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T02:13:10.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T02:13:07.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exp2_WPF",
+              "DocumentMoniker": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\Exp2_WPF.csproj",
+              "RelativeDocumentMoniker": "Exp2_WPF.csproj",
+              "ToolTip": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\Exp2_WPF.csproj",
+              "RelativeToolTip": "Exp2_WPF.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T02:10:51.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResDict.xaml",
+              "DocumentMoniker": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\Resources\\ResDict.xaml",
+              "RelativeDocumentMoniker": "Resources\\ResDict.xaml",
+              "ToolTip": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\Resources\\ResDict.xaml",
+              "RelativeToolTip": "Resources\\ResDict.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T01:35:34.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T01:32:45.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exp2_WPF",
+              "DocumentMoniker": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\Exp2_WPF.csproj",
+              "RelativeDocumentMoniker": "Exp2_WPF.csproj",
+              "ToolTip": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\Exp2_WPF.csproj",
+              "RelativeToolTip": "Exp2_WPF.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T01:28:20.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LL1Analysis.cs",
+              "DocumentMoniker": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\LL1Analysis.cs",
+              "RelativeDocumentMoniker": "LL1Analysis.cs",
+              "ToolTip": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\LL1Analysis.cs",
+              "RelativeToolTip": "LL1Analysis.cs",
+              "ViewState": "AQIAANoBAAAAAAAAAAAAAPEBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:09:45.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StepInfo.cs",
+              "DocumentMoniker": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\StepInfo.cs",
+              "RelativeDocumentMoniker": "StepInfo.cs",
+              "ToolTip": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\StepInfo.cs",
+              "RelativeToolTip": "StepInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:16:48.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LL1Analysis.cs",
+              "DocumentMoniker": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Test\\LL1Analysis.cs",
+              "RelativeDocumentMoniker": "..\\Test\\LL1Analysis.cs",
+              "ToolTip": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Test\\LL1Analysis.cs",
+              "RelativeToolTip": "..\\Test\\LL1Analysis.cs",
+              "ViewState": "AQIAAEcCAAAAAAAAAAAAwF0CAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:06:16.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:58:42.196Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "8e999135-1ba8-4023-a908-c1ba97fcf45a",
+        "Display": 0,
+        "X": 59,
+        "Y": 488,
+        "Width": 368,
+        "Height": 650,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "grammar2.txt",
+              "DocumentMoniker": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Test\\test\\grammars\\grammar2.txt",
+              "RelativeDocumentMoniker": "..\\Test\\test\\grammars\\grammar2.txt",
+              "ToolTip": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Test\\test\\grammars\\grammar2.txt",
+              "RelativeToolTip": "..\\Test\\test\\grammars\\grammar2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-23T07:44:03.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "33fb9c22-34c2-49d0-a8fc-2b41bf98cce5",
+        "Display": 0,
+        "X": 143,
+        "Y": 258,
+        "Width": 463,
+        "Height": 755,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "grammar1.txt",
+              "DocumentMoniker": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\grammars\\grammar1.txt",
+              "RelativeDocumentMoniker": "grammars\\grammar1.txt",
+              "ToolTip": "G:\\books\\\u7F16\u8BD1\u539F\u7406\\Exps\\Exp2_WPF\\grammars\\grammar1.txt",
+              "RelativeToolTip": "grammars\\grammar1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-23T03:38:36.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

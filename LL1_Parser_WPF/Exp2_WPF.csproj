@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>True</UseWPF>
+    <UseWindowsForms>False</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ReadFileUtil.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Icons\newfile.png" />
+    <None Remove="Resources\Icons\run.png" />
+    <None Remove="Resources\Icons\savefile.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Icons\newfile.png" />
+    <Resource Include="Resources\Icons\run.png" />
+    <Resource Include="Resources\Icons\savefile.png" />
+    <None Remove="Resources\Icons\look.png" />
+    <Resource Include="Resources\Icons\look.png" />
+  </ItemGroup>
+
+</Project>
